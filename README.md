@@ -22,7 +22,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-dev2003&" alt="harsh-dev2003" /></p>
 <br>
 
-[![Harsh GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh-dev20038&show_icons=true)](https://github.com/ace9098) 
+[![Harsh GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh-dev20038&show_icons=true)](https://github.com/harsh-dev2003) 
 </br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-dev2003&show_icons=true)
