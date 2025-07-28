@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harsh Singh Lodhi</h1>
+<h3 align="center">Passionate Web Developer | B.Tech IOT Final Year | Learning </h3>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%26+Nextjs+Enthusiast;Web+Development+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
+
+### 👨‍💻 About Me
 - 🎓 Final-year **B.Tech in Internet of Things**, Samrat Ashok Technological Institute (Graduating June 2026)
 - 🚀 Building **tripbozo**—a travel-prep SaaS delivering curated, country-specific app bundles via a single QR code
 - 🌐 Frontend: Next.js, React, Tailwind CSS
